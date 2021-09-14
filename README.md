@@ -12,4 +12,4 @@ When you click de button "Dog here" will appear a photo of a random dog. When yo
 - Click again and it will change!
 
 
-###Enjoy!
+### Enjoy!
