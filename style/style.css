@@ -1,0 +1,29 @@
+:root {
+  background-color: rgb(251, 255, 245);
+}
+
+.head {
+  height: 25vh;
+  width: 100%;
+  border: black solid 2px;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+  align-items: center;
+}
+
+.btn {
+  width: 200px;
+  height: 60px;
+  background-color: rgb(13, 150, 241);
+  border-radius: 20px;
+  color: rgb(255, 255, 255);
+  margin: 35px;
+  border: none;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 28px;
+}
