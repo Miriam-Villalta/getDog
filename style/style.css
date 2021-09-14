@@ -1,11 +1,18 @@
 :root {
-  background-color: rgb(251, 255, 245);
+  background-color: rgb(255, 247, 231);
 }
 
 .head {
-  height: 25vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 30vh;
   width: 100%;
-  border: black solid 2px;
+}
+
+.logo {
+  height: 150px;
 }
 
 .content {
